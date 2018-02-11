@@ -1,5 +1,5 @@
 # Basic
-title: Henry's blog
+title: Henry Sun
 subtitle: 知行合一
 welcome_message: <a href="http://henrysun.tk" target="_blank">Another</a>
 description: 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？ 一蓑烟雨任平生。
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: sunilsun@163.com
+    github: sunilfsun@gmail.com
+    twitter: sunilfsun@gmail.com
+    gplus: sunilfsun@gmail.com
+    mail: sunilsun@163.com
 
 # Google Analytics
 ga:
