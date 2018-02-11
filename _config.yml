@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Henry Sun
+subtitle: 知行合一
+welcome_message: <a href="http://henrysun.tk" target="_blank">Download the theme</a>
+description: 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？ 一蓑烟雨任平生。
+creator: <a href="http://henrysun.tk">@henrysun</a>
 
-url: "http://vno.onevcat.com"
+url: "http://henrysun.tk"
 
 permalink: /:year/:month/:title/
 
