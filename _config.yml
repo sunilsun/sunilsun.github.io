@@ -23,6 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: Projects, description: My Projects, url: 'https://github.com/sunilsun'}
+    - {title: 博客园, description: 桐城东旭-博客园, url: 'https://www.cnblogs.com/sunilsun/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
